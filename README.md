@@ -45,3 +45,6 @@ Read from the sheet 1
 
 Written in sheet 2
 ![Screenshot 2025-05-05 110458](https://github.com/user-attachments/assets/9773e61e-5b1f-43eb-8cde-5be1c59aab11)
+
+# Result
+Using Uipath to Read data from an Excel file and write it to another Excel file was successfully completed.
